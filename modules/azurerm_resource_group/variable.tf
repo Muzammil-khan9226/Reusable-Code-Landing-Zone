@@ -6,3 +6,4 @@ variable "rgs" {
     }))
   }))
 }
+
